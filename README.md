@@ -1,1 +1,4 @@
-# Interactive-Stock-Asset-Dashboard
+# Interactive Financial Asset Dashboard
+
+For this project I created an interactive Excel dashboard. Using the "xlwings" package (among many other data libraries such as Pandas, Numpy & Seaborn), I was able to conduct financial analysis in Python and subsequently transfer it over to my Excel workbook. Additionally, I used elementary web scraping to extract stock statistics along with information from the 3 main financial statements, and conditionally formatted them within Excel for basic fundamental analysis. All the code in Python is made interactive by converting the ".py" files into Macros, where the output depends on information written in particular cells on the Excel workbook.
+
